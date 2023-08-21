@@ -31,7 +31,7 @@ function carsubscribe(timeout = 0) {
         }
         $.get(option, async (err, resp, data) => {
             try {
-                $.msg(resp.statusCode + "\n\n" + resp.body, data);
+                $.msg(data);
             } catch (e) {
                 $.msg(e)
             } finally {
