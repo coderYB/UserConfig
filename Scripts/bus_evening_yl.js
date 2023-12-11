@@ -17,7 +17,7 @@ const $ = new Env('晚班车预约');
 function carsubscribe(timeout = 0) {
     return new Promise((resolve) => {
         let option = {
-            url: "http://gl.yichengshidai.com/api/api-oa/park-bus-app/appointmentBus/41", // URL，必须
+            url: "http://gl.yichengshidai.com/api/api-oa/park-bus-app/appointmentBus/48", // URL，必须
             headers: { // 请求头，可选
                 'Accept' : `*/*`,
                 'Accept-Encoding' : `gzip, deflate`,
