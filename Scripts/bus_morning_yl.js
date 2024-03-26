@@ -26,7 +26,7 @@ function carsubscribe(timeout = 0) {
                 'Content-Type' : `application/json`,
                 'Host' : `gl.yichengshidai.com`,
                 'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Html5Plus/1.0 (Immersed/20) uni-app`,
-                'Authorization' : `bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTEzMzA4NDUsInVzZXJfbmFtZSI6IjE4MTAxMDk3OTk0IiwiYXV0aG9yaXRpZXMiOlsiQUxMIiwiLztBTEwiLCIvbW9kdWxlO0FMTCIsIi9EYXNoYm9hcmQ7QUxMIiwiO0FMTCJdLCJqdGkiOiI0NTMyZjY0Mi1mOGFjLTQ5NDItYTYzZi1kNjJmMTFhNTA2ZTgiLCJjbGllbnRfaWQiOiJhcHAiLCJzY29wZSI6WyJ4eCJdfQ.llfKUg8y5mdigCKdIZA18NFWmlCQVDB7cPdK2zn7_igIsE12x-rsKDptdINJLJV405GALeE4j2h30zcICdwAWqfyK_ZkdizrPrWHo-5hrQPqI75BDCJ550-BQ_35m4ayXlIQQHkNjg-Sa1D7Rw-w-LyVkw-Te9WYXmHRnVONN0K-xNvNB87hVo8f4ATgxkIYJLHsJA1btQJcT4ulrFpDJKFtVwjOlWUhTxxhJ83gqhKZW39eZ7tjxUU03gKf0kSlf4jHhZbiNRgEOHoi9EiD3XPJUFjsYWJNBVMuYYxNIT_W7-oniQ3MsEWz8bnjMmvxm3OXP1oS7-tz7ozEdVV0tw`,
+                'Authorization' : `bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI1MzcxOTcsInVzZXJfbmFtZSI6IjE4MTAxMDk3OTk0IiwianRpIjoiNDA3Y2QxNDgtMjRiOC00MjgyLWE5OTQtNTVkMDJkNzdkNjgxIiwiY2xpZW50X2lkIjoiYXBwIiwic2NvcGUiOlsieHgiXX0.ppoEZlwq0bGVy70e8S0Hl2i82WjrPyBmalnywhWHE4HnQOp8MP-R8xZchkZ1Yhkeqm-aifCIdmoDMPa5vkw29MOGJnEfDjg5BvsrDTpXTuLFXyHleK0-_MDvAqFKooX5Wt-RjpbJ_aDgvqDPGD7sp2m-exssxZdAKDMUAU-9fzGg2QrQY4F3-IiPMjGRDRPm0NyIkOV22yNQ9-xksrDe_HHlYfCCwlEb-igxtDLo5rTNxhd_ye_nlSxMLaKRY7sOrXhYjUtSgp4tXnISmrcRG1Vt3-XrAwTxGX9IwQBBCSMypuUj4h8w4rD26smsn5Czs5bADJjCKH_COE6kifCwuA`,
                 'Accept-Language' : `zh-CN,zh-Hans;q=0.9`
             },
         }
