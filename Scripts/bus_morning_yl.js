@@ -25,7 +25,7 @@ function carsubscribe(timeout = 0) {
                 'Connection' : `keep-alive`,
                 'Content-Type' : `application/json`,
                 'Host' : `gl.yichengshidai.com`,
-                'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Html5Plus/1.0 (Immersed/20) uni-app`,
+                'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 15_8_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Html5Plus/1.0 (Immersed/20) uni-ap`,
                 'Authorization' : `bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDI1MzcxOTcsInVzZXJfbmFtZSI6IjE4MTAxMDk3OTk0IiwianRpIjoiNDA3Y2QxNDgtMjRiOC00MjgyLWE5OTQtNTVkMDJkNzdkNjgxIiwiY2xpZW50X2lkIjoiYXBwIiwic2NvcGUiOlsieHgiXX0.ppoEZlwq0bGVy70e8S0Hl2i82WjrPyBmalnywhWHE4HnQOp8MP-R8xZchkZ1Yhkeqm-aifCIdmoDMPa5vkw29MOGJnEfDjg5BvsrDTpXTuLFXyHleK0-_MDvAqFKooX5Wt-RjpbJ_aDgvqDPGD7sp2m-exssxZdAKDMUAU-9fzGg2QrQY4F3-IiPMjGRDRPm0NyIkOV22yNQ9-xksrDe_HHlYfCCwlEb-igxtDLo5rTNxhd_ye_nlSxMLaKRY7sOrXhYjUtSgp4tXnISmrcRG1Vt3-XrAwTxGX9IwQBBCSMypuUj4h8w4rD26smsn5Czs5bADJjCKH_COE6kifCwuA`,
                 'Accept-Language' : `zh-CN,zh-Hans;q=0.9`
             },
